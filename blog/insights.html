@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Insights — Denys Sulinskyi</title>
+  <meta name="description" content="Insights, notes, cases and architecture of AI systems.">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <div class="container">
+
+    <!-- Header / Logo -->
+    <a href="../index.html" class="logo-text">Denys Sulinskyi</a>
+
+    <!-- Language Switcher -->
+    <div class="lang-switcher">
+      <button class="lang-btn active" onclick="setLang('en')">EN</button>
+      <button class="lang-btn" onclick="setLang('uk')">UA</button>
+      <button class="lang-btn" onclick="setLang('ru')">RU</button>
+    </div>
+
+    <!-- Insights Hub Section -->
+    <div class="section">
+      <h1 data-en="Insights" data-uk="Інсайти" data-ru="Инсайты">Insights</h1>
+      <div class="text center" style="margin-bottom: 40px;">
+        <span data-en="Notes, cases, and AI systems architecture" data-uk="Замітки, кейси та архітектура AI-систем" data-ru="Заметки, кейсы и архитектура AI-систем">Notes, cases, and AI systems architecture</span>
+      </div>
+
+      <!-- Filters (Optional future use) -->
+      <div class="card-pills" style="justify-content: center; margin-bottom: 30px;">
+        <span class="pill" style="color: var(--dd-green); border-color: var(--dd-green);">All</span>
+        <span class="pill">AI Strategy</span>
+        <span class="pill">Process Design</span>
+      </div>
+
+      <div class="cases-list">
+        
+        <!-- Large Card -->
+        <div class="case-card">
+          <div class="case-card-inside">
+            <div class="case-ball"></div>
+            <div class="case-card-content">
+              <div class="case-tag">
+                <span data-en="[ AI Architecture ]" data-uk="[ AI-архітектура ]" data-ru="[ AI-архитектура ]">[ AI Architecture ]</span>
+              </div>
+              <div class="case-title">
+                <span data-en="Forget the &quot;Petrol Horse&quot;: How to Architect Real AI Business Transformation" data-uk="Забудьте про «бензинового коня»: Як правильно будувати AI-архітектуру бізнесу" data-ru="Забудьте про «бензиновую лошадь»: Как правильно строить AI-архитектуру бизнеса">Forget the "Petrol Horse": How to Architect Real AI Business Transformation</span>
+              </div>
+              <div class="case-desc">
+                <span data-en="3 min read" data-uk="3 хв читання" data-ru="3 мин чтения">3 min read</span>
+              </div>
+              <div style="margin-top: 20px;">
+                <a href="../blog/ai-architecture-framework.html" class="cta-btn-secondary" style="display: inline-flex; font-size: 12px; padding: 6px 14px; border-radius: 20px;">
+                  <span data-en="Read article" data-uk="Читати статтю" data-ru="Читать статью">Read article</span> &rarr;
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Smaller Card 1 -->
+        <div class="case-card">
+          <div class="case-card-inside">
+            <div class="case-ball"></div>
+            <div class="case-card-content">
+              <div class="case-tag">
+                <span data-en="[ Process Design ]" data-uk="[ Дизайн процесів ]" data-ru="[ Дизайн процессов ]">[ Process Design ]</span>
+              </div>
+              <div class="case-title">
+                <span data-en="From AI Toy to AI Business: 4 Fundamental Process Shifts" data-uk="Від AI-іграшки до AI-бізнесу: 4 фундаментальні зсуви у процесах" data-ru="От ИИ-игрушки к ИИ-бизнесу: 4 фундаментальных сдвига в процессах">From AI Toy to AI Business: 4 Fundamental Process Shifts</span>
+              </div>
+              <div class="case-desc">
+                <span data-en="3 min read" data-uk="3 хв читання" data-ru="3 мин чтения">3 min read</span>
+              </div>
+              <div style="margin-top: 20px;">
+                <a href="../blog/4-shifts-framework.html" class="cta-btn-secondary" style="display: inline-flex; font-size: 12px; padding: 6px 14px; border-radius: 20px;">
+                  <span data-en="Read article" data-uk="Читати статтю" data-ru="Читать статью">Read article</span> &rarr;
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Smaller Card 2 -->
+        <div class="case-card">
+          <div class="case-card-inside">
+            <div class="case-ball"></div>
+            <div class="case-card-content">
+              <div class="case-tag">
+                <span data-en="[ AI Strategy ]" data-uk="[ AI-стратегія ]" data-ru="[ AI-стратегия ]">[ AI Strategy ]</span>
+              </div>
+              <div class="case-title">
+                <span data-en="The Autonomy Ladder: 5 Stages of Delegating to AI Agents" data-uk="Сходи автономії: 5 етапів делегування завдань AI-агентам" data-ru="Лестница автономии: 5 этапов делегирования задач ИИ-агентам">The Autonomy Ladder: 5 Stages of Delegating to AI Agents</span>
+              </div>
+              <div class="case-desc">
+                <span data-en="3 min read" data-uk="3 хв читання" data-ru="3 мин чтения">3 min read</span>
+              </div>
+              <div style="margin-top: 20px;">
+                <a href="../blog/autonomy-ladder.html" class="cta-btn-secondary" style="display: inline-flex; font-size: 12px; padding: 6px 14px; border-radius: 20px;">
+                  <span data-en="Read article" data-uk="Читати статтю" data-ru="Читать статью">Read article</span> &rarr;
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- CTA / Contact -->
+    <div id="contact" class="cta-section">
+      <div class="cta-title">
+        <span data-en="Let's audit your business." data-uk="Давайте розберемо ваш бізнес." data-ru="Давайте разберём ваш бизнес.">Let's audit your business.</span>
+      </div>
+      <div class="cta-subtitle">
+        <span data-en="Want to see where AI will be truly effective for your business? Book a free 30-min discovery call." data-uk="Хочете побачити, де AI буде дійсно ефективним для вашого бізнесу? Запишіться на безкоштовний 30-хвилинний розбір." data-ru="Хотите увидеть, где AI будет действительно эффективен для вашего бизнеса? Запишитесь на бесплатный 30-минутный разбор.">Want to see where AI will be truly effective for your business? Book a free 30-min discovery call.</span>
+      </div>
+      <div class="cta-buttons">
+        <div class="cta-primary-wrapper">
+          <a href="https://calendar.app.google/QAQWNLKrwhZ4UuDR7" target="_blank" class="cta-btn-primary">
+            <span class="green-light"></span>
+            <span data-en="Book a diagnostic" data-uk="Записатися на діагностику" data-ru="Записаться на диагностику">Book a diagnostic</span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="footer-links">
+        <a href="https://www.youtube.com/@denyssulinskyiai" target="_blank">YouTube</a>
+        <a href="https://t.me/denys_sulinskyi_AI" target="_blank">Telegram</a>
+        <a href="https://www.linkedin.com/in/denys-s-8b92b820b/" target="_blank">LinkedIn</a>
+      </div>
+      <div>© 2026 Denys Sulinskyi. Porto, Portugal.</div>
+    </footer>
+
+  </div>
+
+  <script src="../script.js"></script>
+</body>
+</html>
