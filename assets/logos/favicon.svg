@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&amp;display=swap');
+    text {
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 700;
+      fill: #2ac670;
+      font-size: 65px;
+      letter-spacing: -3px;
+    }
+  </style>
+  <rect width="100" height="100" fill="transparent"/>
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle">DS</text>
+</svg>
