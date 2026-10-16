@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://denyssulinskyi.pro/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/uk/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/blog/insights.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/blog/insights.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/blog/insights.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/blog/insights.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/blog/insights.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/uk/blog/insights.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/blog/insights.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/blog/insights.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/blog/insights.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/blog/insights.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/ru/blog/insights.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/blog/insights.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/blog/insights.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/blog/insights.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/blog/insights.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/blog/autonomy-ladder.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/blog/autonomy-ladder.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/blog/autonomy-ladder.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/blog/autonomy-ladder.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/blog/autonomy-ladder.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/uk/blog/autonomy-ladder.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/blog/autonomy-ladder.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/blog/autonomy-ladder.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/blog/autonomy-ladder.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/blog/autonomy-ladder.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/ru/blog/autonomy-ladder.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/blog/autonomy-ladder.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/blog/autonomy-ladder.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/blog/autonomy-ladder.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/blog/autonomy-ladder.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/blog/ai-architecture-framework.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/blog/ai-architecture-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/blog/ai-architecture-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/blog/ai-architecture-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/blog/ai-architecture-framework.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/uk/blog/ai-architecture-framework.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/blog/ai-architecture-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/blog/ai-architecture-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/blog/ai-architecture-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/blog/ai-architecture-framework.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/ru/blog/ai-architecture-framework.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/blog/ai-architecture-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/blog/ai-architecture-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/blog/ai-architecture-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/blog/ai-architecture-framework.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/blog/4-shifts-framework.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/blog/4-shifts-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/blog/4-shifts-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/blog/4-shifts-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/blog/4-shifts-framework.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/uk/blog/4-shifts-framework.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/blog/4-shifts-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/blog/4-shifts-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/blog/4-shifts-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/blog/4-shifts-framework.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://denyssulinskyi.pro/ru/blog/4-shifts-framework.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://denyssulinskyi.pro/blog/4-shifts-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://denyssulinskyi.pro/uk/blog/4-shifts-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://denyssulinskyi.pro/ru/blog/4-shifts-framework.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://denyssulinskyi.pro/blog/4-shifts-framework.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

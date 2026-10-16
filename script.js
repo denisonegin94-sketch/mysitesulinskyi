@@ -1,28 +1,3 @@
-// ===== Language Switcher =====
-function setLang(lang) {
-  document.querySelectorAll('[data-en]').forEach(el => {
-    const text = el.getAttribute('data-' + lang);
-    if (text) el.innerHTML = text;
-  });
-
-  document.documentElement.lang = lang === 'uk' ? 'uk' : lang === 'ru' ? 'ru' : 'en';
-  localStorage.setItem('lang', lang);
-
-  // Update active button
-  document.querySelectorAll('.lang-btn').forEach(btn => {
-    btn.classList.remove('active');
-    if (btn.getAttribute('onclick').includes("'" + lang + "'")) {
-      btn.classList.add('active');
-    }
-  });
-}
-
-// Init language on page load
-window.addEventListener('DOMContentLoaded', () => {
-  const saved = localStorage.getItem('lang') || 'en';
-  setLang(saved);
-});
-
 // ===== Accordion Toggle =====
 function toggleAccordion(block) {
   const content = block.querySelector('.accordion-content');
