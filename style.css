@@ -1015,3 +1015,13 @@ a.lang-btn {
   margin: 0 0 28px auto;
   width: fit-content;
 }
+
+/* ===== Publication date under the article title ===== */
+.article-date {
+  display: block;
+  margin-top: 10px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: var(--color-2);
+}
